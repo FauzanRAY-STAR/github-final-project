@@ -15,4 +15,4 @@ Output
 
 _© 2022 XYZ, Inc._
 
-This project demonstrates Git branching and version control.
+This project demonstrates Git branching and version controls.
